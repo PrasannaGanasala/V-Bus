@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VITBS UI Design</string>
+    <string name="log_in">Log In</string>
+    <string name="vit_bust_track">VIT BUS Track</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="loginButton">Login</string>
+    <string name="admin_console">Admin Console</string>
+    <string name="registration">Registration</string>
+    <string name="qr_generator">QR Generator</string>
+    <string name="manage_buses">Manage Buses</string>
+    <string name="title_activity_manage_buses">ManageBusesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="bus_id">Bus ID:</string>
+    <string name="driver_id">Driver ID:</string>
+    <string name="driver_name">Driver Name:</string>
+    <string name="seat_availability">Seats Available:</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="driver_console">Driver Console</string>
+    <string name="share_location">Share Location</string>
+    <string name="title_activity_driver_maps">DriverMapsActivity</string>
+
+    <string name="maps_sdk_api_key">AIzaSyDP-FYTjoivNZdnwt5IGQJEug5BRol4X4g</string>
+    <string name="track_bus">Track Bus</string>
+    <string name="student_console">Student Console</string>
+    <string name="qr_scan">QR Scanner</string>
+    <string name="title_activity_student_maps">StudentMapsActivity</string>
+</resources>
